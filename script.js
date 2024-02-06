@@ -53,6 +53,7 @@ function generateMessage(noCount) {
     "dai guarda che caro",
     "ci rimane male eh"
     "dici di si :)",
+    
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
