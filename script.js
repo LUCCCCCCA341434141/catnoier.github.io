@@ -43,7 +43,7 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "non dire subito di si ci ho messo 3 ore",
+    "aspetta a dire si",
     "Pookie please",
     "Don't do this to me :(",
     "You're breaking my heart",
